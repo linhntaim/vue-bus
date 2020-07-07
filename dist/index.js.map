@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["default"],"mappings":"AAAA,OAAQA,OAAR,KAAsB,WAAtB","sourcesContent":["export {default} from './install'\r\n"],"file":"index.js"}
