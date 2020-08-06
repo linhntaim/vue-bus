@@ -1,2 +1,2 @@
-import EventBus from"./event-bus";const install=Vue=>{Vue.prototype.$bus=new EventBus};export default install;
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=void 0;var _eventBus=_interopRequireDefault(require("./event-bus"));function _interopRequireDefault(obj){return obj&&obj.__esModule?obj:{"default":obj}}var install=function install(Vue){Vue.prototype.$bus=new _eventBus["default"]};var _default=install;exports["default"]=_default;
 //# sourceMappingURL=install.js.map
