@@ -1,5 +1,5 @@
 {
-    "name": "@dsquare-gbu/vue-bus",
+    "name": "@linhntaim/vue-bus",
     "version": "1.0.3",
     "description": "To handle global events in Vue application",
     "main": "dist/index.js",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@git-gbu.japaneast.cloudapp.azure.com:gbu/vue-bus.git"
+        "url": "https://github.com/linhntaim/vue-bus.git"
     },
     "keywords": [
         "vue",
@@ -19,7 +19,7 @@
         "application",
         "event"
     ],
-    "author": "Nguyen Tuan Linh <tuanlinh.nguyen@dsquare.com.vn>",
+    "author": "Nguyen Tuan Linh <contact@linhntaim.com> (https://linhntaim.com)",
     "license": "MIT",
     "devDependencies": {
         "@babel/cli": "^7.10.5",
