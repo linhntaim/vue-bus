@@ -1,6 +1,6 @@
 {
     "name": "@linhntaim/vue-bus",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "description": "To handle global events in Vue application",
     "main": "dist/index.js",
     "scripts": {

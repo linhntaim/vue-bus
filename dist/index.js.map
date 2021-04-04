@@ -1,1 +1,1 @@
-{"version":3,"sources":["../src/index.js"],"names":[],"mappings":"6KAAA","sourcesContent":["export {install} from './install'\r\n"],"file":"index.js"}
+{"version":3,"sources":["../src/index.js"],"names":[],"mappings":"gLAAA,0D","sourcesContent":["export {default} from './install'\r\n"],"file":"index.js"}
