@@ -1,7 +1,5 @@
-import EventBus from './event-bus'
+import {EventBus} from './event-bus'
 
-const install = (Vue) => {
+export const install = Vue => {
     Vue.prototype.$bus = new EventBus()
 }
-
-export default install

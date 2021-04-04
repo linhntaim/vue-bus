@@ -1,6 +1,6 @@
 import Vue from 'vue'
 
-export default class EventBus {
+export class EventBus {
     constructor() {
         this.bus = new Vue()
     }
