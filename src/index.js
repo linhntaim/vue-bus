@@ -1,1 +1,1 @@
-export {install} from './install'
+export {default} from './install'
